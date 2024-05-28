@@ -1,3 +1,3 @@
- copy pada direktori kemudian aktivkan virtual environmennya dengan perintah
+copy pada direktory penyimpanan komputer anda kemudian aktivkan virtual environmennya dengan perintah
 
 source venv/bin/activate
